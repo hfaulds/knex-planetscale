@@ -1,3 +1,3 @@
-import * as Knex from "knex";
+import { Knex } from "knex";
 export declare class Client_PSDB extends Knex.Client {
 }
