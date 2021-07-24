@@ -1,6 +1,6 @@
 {
   "name": "knex-planetscale",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "types": "index.d.ts",
   "directories": {
@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.95.7"
+    "knex": "^0.95.7",
+    "planetscale-node": "^0.0.2"
   },
   "devDependencies": {},
   "repository": {
