@@ -1,8 +1,9 @@
 {
   "name": "knex-planetscale",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "types": "index.d.ts",
+  "type": "module",
   "directories": {
     "test": "tests"
   },
