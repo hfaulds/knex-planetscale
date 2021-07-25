@@ -1,4 +1,4 @@
-const { PSDB } = require('planetscale-node')
+const { PSDB } = require('planetscale-node/dist/index.js')
 const Client_MySQL2 = require('knex/lib/dialects/mysql2/index.js')
 
 class Client_PSDB extends Client_MySQL2 {
