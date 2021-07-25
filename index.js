@@ -12,4 +12,6 @@ Object.assign(Client_PSDB.prototype, {
   driverName: 'psdb',
 });
 
-module.exports = Client_PSDB;
+module.exports = {
+  Client_PSDB: Client_PSDB,
+};
